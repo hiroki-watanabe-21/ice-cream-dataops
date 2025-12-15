@@ -1,6 +1,6 @@
 environment:
   name: prod
-  project: cdf-bootcamp-31-test
+  project: cdf-bootcamp-31-prod
   validation-type: prod
   selected:
     - modules/bootcamp/data_foundation
